@@ -6,7 +6,7 @@ public class Day13 {
     public static void main(String[] args) {
         Scanner nilai = new Scanner(System.in);
 
-        System.out.println("Masukkan angka : ");
+        System.out.println("Masukkan nilai1 : ");
         int nilai1 = nilai.nextInt();
 
         if (nilai1 > 5) {
