@@ -11,7 +11,7 @@ public class Day28 {
 
         batasAtas = input.nextInt();
 
-        int total = 1;
+        int total = 0;
         for (int i = 1; i <= batasAtas; i++) {
             System.out.println(i);
             total *= i;
