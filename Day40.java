@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Day39 {
+public class Day40 {
 
     public static void main(String[] args) {
         Scanner angka = new Scanner(System.in);
